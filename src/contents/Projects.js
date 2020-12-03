@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Widecard from '../components/Widecard';
-import hangman from '../img/hangman.png';
 
 
 class Projects extends Component {

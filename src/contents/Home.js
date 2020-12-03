@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import ReactTypingEffect from 'react-typing-effect';
 import profilepic from '../img/img.jpg';
-import Social from '../components/Social'
 
 
 
